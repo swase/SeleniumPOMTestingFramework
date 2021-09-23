@@ -49,7 +49,7 @@ Below is the Class diagram for the POM's
 
 ![image](https://user-images.githubusercontent.com/33132105/134585328-2df1e37a-3d6c-4e9b-979f-9cbebd1c943d.png)
 ## LivingDoc's
-
+![image](https://user-images.githubusercontent.com/33132105/134585459-90bd8a06-fe38-4ce5-bf1a-4fc16602ea6e.png)
 
 The project repository contains the LivingDocs file for further detail.
 
