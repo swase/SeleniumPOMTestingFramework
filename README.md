@@ -47,8 +47,7 @@ Then the page with title "checkout: complete!" is loaded
 
 Below is the Class diagram for the POM's
 
-https://github.com/swase/SeleniumPOMTestingFramework/issues/1#issue-1005853674
-
+![image](https://user-images.githubusercontent.com/33132105/134585328-2df1e37a-3d6c-4e9b-979f-9cbebd1c943d.png)
 ## LivingDoc's
 
 
